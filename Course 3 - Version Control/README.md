@@ -1,38 +1,16 @@
-Instructions
+# Version Control
 
-Step 1: Create a new repository on your Github account named "repo-exercise". Ensure that "Add a README file" is selected.
+<img src="../meta-logo.png" width=150>
 
-Step 2: Open the Terminal and authenticate using gh (Github CLI):
-"gh auth login"
+- This directory contains all of my assignments from the Coursera Course: [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
 
-Step 3: Create an authentication token in your Github account with specified scopes given in the terminal. Copy it from Github and paste it. Verify authorization was successful.
+## Table of Content
 
+- Week 1: [Software collaboration](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
+- Week 2: [Command Line](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
+- Week 3: [Working with Git](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
+- Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
 
-Step 4: Clone the repository using its GitHub CLI.
-"gh repo clone <YOUR USERNAME>/<REPOSITORY-NAME> "
+## Proof of Completion
 
-Step 5: Move to the repo directory by using "cd <REPOSITORY-NAME>"
-
-Step 6: Download and add the"result.txt" to the repository folder on your local machine
-
-Step 7: In the Git terminal, run the "git status" command.
-
-Step 8: Verify that the output shows "result.txt" as an untracked file.
-
-Step 9: Run the command "git add result.txt"
-
-Step 10: Run the "git status" command again.
-
-Step 11: Verify that the output shows "result.txt" as a tracked file.
-
-Step 12: Next, run the "git commit" command and specify the commit message as "Successful exercise"
-
-Step 13: Verify that the output shows "result.txt" with create mode
-
-Step 14: Next, run the "git push" command.
-
-Step 15: Verify that the output pushed successfully.
-
-Step 16: On Github, go to your repository page.
-
-Step 17: Verify that the "result.txt" file is listed. You may need to refresh the page to see the changes. 
+<img src="./certificate.png" width=800>
