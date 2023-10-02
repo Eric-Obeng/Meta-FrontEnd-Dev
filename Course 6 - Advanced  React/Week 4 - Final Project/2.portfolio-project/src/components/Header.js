@@ -121,7 +121,7 @@ const Header = () => {
               <a href="#contact" onClick={handleClick("contactme")}>
                 Contact Me
               </a>
-              <a href="#contact" onClick={handleClick("blogpost")}>
+              <a href="#blog" onClick={handleClick("blogpost")}>
                 Blog
               </a>
             </HStack>
